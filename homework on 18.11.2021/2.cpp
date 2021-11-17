@@ -11,10 +11,10 @@ bool root(double &a) {
 
 int main()
 {
-	double a;
-	std::cin >> a;
-	if (root(a)) {
-		std::cout << "square root of input number is " << a << std::endl;
+	double a, b, c;
+	std::cin >> a>>b>>c;
+	if (root(a)&&root(b)&&root(c)) {
+		std::cout << "square root of input numbers is " << a <<" "<<b<<" "<<c<< std::endl;
 		return 0;
 	}
 	std::cout << "incorrect input" << std::endl;
