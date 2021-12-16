@@ -28,6 +28,7 @@ int main()
 	}
 	cout << "Ваш массив после изменений:\n";
 	printArray(arr, n);
+	delete [] arr;
 }
 
 void printArray(int* arr, int n) {
