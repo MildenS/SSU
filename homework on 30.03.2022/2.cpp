@@ -32,6 +32,7 @@ int main()
     for (int i = 0; i < n; i++) {
         cout << sarr[i] << ' ';
     }
+    delete[] sarr;
 }
 
 bool sortComp(string s1, string s2)
