@@ -1,0 +1,8 @@
+E:\Универ\C#\Pr13_IX\Pr13_IX\bin\Debug\Pr13_IX.exe.config
+E:\Универ\C#\Pr13_IX\Pr13_IX\bin\Debug\Pr13_IX.exe
+E:\Универ\C#\Pr13_IX\Pr13_IX\bin\Debug\Pr13_IX.pdb
+E:\Универ\C#\Pr13_IX\Pr13_IX\obj\Debug\Pr13_IX.csproj.AssemblyReference.cache
+E:\Универ\C#\Pr13_IX\Pr13_IX\obj\Debug\Pr13_IX.csproj.SuggestedBindingRedirects.cache
+E:\Универ\C#\Pr13_IX\Pr13_IX\obj\Debug\Pr13_IX.csproj.CoreCompileInputs.cache
+E:\Универ\C#\Pr13_IX\Pr13_IX\obj\Debug\Pr13_IX.exe
+E:\Универ\C#\Pr13_IX\Pr13_IX\obj\Debug\Pr13_IX.pdb
