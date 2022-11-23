@@ -1,0 +1,8 @@
+E:\Универ\C#\Pr17_III\Pr17_III\bin\Debug\Pr17_III.exe.config
+E:\Универ\C#\Pr17_III\Pr17_III\bin\Debug\Pr17_III.exe
+E:\Универ\C#\Pr17_III\Pr17_III\bin\Debug\Pr17_III.pdb
+E:\Универ\C#\Pr17_III\Pr17_III\obj\Debug\Pr17_III.csproj.AssemblyReference.cache
+E:\Универ\C#\Pr17_III\Pr17_III\obj\Debug\Pr17_III.csproj.SuggestedBindingRedirects.cache
+E:\Универ\C#\Pr17_III\Pr17_III\obj\Debug\Pr17_III.csproj.CoreCompileInputs.cache
+E:\Универ\C#\Pr17_III\Pr17_III\obj\Debug\Pr17_III.exe
+E:\Универ\C#\Pr17_III\Pr17_III\obj\Debug\Pr17_III.pdb
