@@ -1,0 +1,17 @@
+Full catalog information: -----------------------
+Book: Programming, Silver, 2014, Astra
+Article: HypothesisPuancare, Perelman, Math, 234, 2002
+Electronic resource: HowToDowncast, Silver, https://youtube.com, HowToDowncastInC#
+Book: MathIsEasy, Perelman, 1978, Moscowpublishing
+Electronic resource: MultiProccesingSystems, NoName, https://pvs-studio.com, HistoryAndusingMultiProcessingSystems
+
+Searched information: -----------------------
+Book: Programming, Silver, 2014, Astra
+Electronic resource: HowToDowncast, Silver, https://youtube.com, HowToDowncastInC#
+
+Sorted catalog information: -----------------------
+Electronic resource: MultiProccesingSystems, NoName, https://pvs-studio.com, HistoryAndusingMultiProcessingSystems
+Article: HypothesisPuancare, Perelman, Math, 234, 2002
+Book: MathIsEasy, Perelman, 1978, Moscowpublishing
+Book: Programming, Silver, 2014, Astra
+Electronic resource: HowToDowncast, Silver, https://youtube.com, HowToDowncastInC#

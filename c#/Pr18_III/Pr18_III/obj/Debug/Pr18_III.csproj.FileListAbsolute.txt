@@ -1,0 +1,16 @@
+C:\Users\kloch\Desktop\Aska\Pr18_III\Pr18_III\bin\Debug\Pr18_III.exe.config
+C:\Users\kloch\Desktop\Aska\Pr18_III\Pr18_III\bin\Debug\Pr18_III.exe
+C:\Users\kloch\Desktop\Aska\Pr18_III\Pr18_III\bin\Debug\Pr18_III.pdb
+C:\Users\kloch\Desktop\Aska\Pr18_III\Pr18_III\obj\Debug\Pr18_III.csproj.AssemblyReference.cache
+C:\Users\kloch\Desktop\Aska\Pr18_III\Pr18_III\obj\Debug\Pr18_III.csproj.SuggestedBindingRedirects.cache
+C:\Users\kloch\Desktop\Aska\Pr18_III\Pr18_III\obj\Debug\Pr18_III.csproj.CoreCompileInputs.cache
+C:\Users\kloch\Desktop\Aska\Pr18_III\Pr18_III\obj\Debug\Pr18_III.exe
+C:\Users\kloch\Desktop\Aska\Pr18_III\Pr18_III\obj\Debug\Pr18_III.pdb
+E:\Универ\C#\Pr18_III\Pr18_III\bin\Debug\Pr18_III.exe.config
+E:\Универ\C#\Pr18_III\Pr18_III\bin\Debug\Pr18_III.exe
+E:\Универ\C#\Pr18_III\Pr18_III\bin\Debug\Pr18_III.pdb
+E:\Универ\C#\Pr18_III\Pr18_III\obj\Debug\Pr18_III.csproj.AssemblyReference.cache
+E:\Универ\C#\Pr18_III\Pr18_III\obj\Debug\Pr18_III.csproj.SuggestedBindingRedirects.cache
+E:\Универ\C#\Pr18_III\Pr18_III\obj\Debug\Pr18_III.csproj.CoreCompileInputs.cache
+E:\Универ\C#\Pr18_III\Pr18_III\obj\Debug\Pr18_III.exe
+E:\Универ\C#\Pr18_III\Pr18_III\obj\Debug\Pr18_III.pdb
