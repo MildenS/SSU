@@ -1,0 +1,8 @@
+E:\Универ\C#\Pr16_II\Pr16_II\bin\Debug\Pr16_II.exe.config
+E:\Универ\C#\Pr16_II\Pr16_II\bin\Debug\Pr16_II.exe
+E:\Универ\C#\Pr16_II\Pr16_II\bin\Debug\Pr16_II.pdb
+E:\Универ\C#\Pr16_II\Pr16_II\obj\Debug\Pr16_II.csproj.AssemblyReference.cache
+E:\Универ\C#\Pr16_II\Pr16_II\obj\Debug\Pr16_II.csproj.SuggestedBindingRedirects.cache
+E:\Универ\C#\Pr16_II\Pr16_II\obj\Debug\Pr16_II.csproj.CoreCompileInputs.cache
+E:\Универ\C#\Pr16_II\Pr16_II\obj\Debug\Pr16_II.exe
+E:\Универ\C#\Pr16_II\Pr16_II\obj\Debug\Pr16_II.pdb

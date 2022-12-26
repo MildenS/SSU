@@ -1,0 +1,14 @@
+Bear:
+Bear 23,5 7 99 
+Bear 2003,5 7 99 
+
+Dog:
+Dog 15550 7 99 
+Dog 50 7 99 
+
+Rifle:
+Rifle 1000 7 99 
+
+Soldier:
+Soldier 95 7 99 
+
