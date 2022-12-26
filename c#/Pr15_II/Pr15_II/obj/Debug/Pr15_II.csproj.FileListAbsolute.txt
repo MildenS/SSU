@@ -1,0 +1,8 @@
+E:\Универ\C#\Pr15_II\Pr15_II\bin\Debug\Pr15_II.exe.config
+E:\Универ\C#\Pr15_II\Pr15_II\bin\Debug\Pr15_II.exe
+E:\Универ\C#\Pr15_II\Pr15_II\bin\Debug\Pr15_II.pdb
+E:\Универ\C#\Pr15_II\Pr15_II\obj\Debug\Pr15_II.csproj.AssemblyReference.cache
+E:\Универ\C#\Pr15_II\Pr15_II\obj\Debug\Pr15_II.csproj.SuggestedBindingRedirects.cache
+E:\Универ\C#\Pr15_II\Pr15_II\obj\Debug\Pr15_II.csproj.CoreCompileInputs.cache
+E:\Универ\C#\Pr15_II\Pr15_II\obj\Debug\Pr15_II.exe
+E:\Универ\C#\Pr15_II\Pr15_II\obj\Debug\Pr15_II.pdb

@@ -1,0 +1,3 @@
+Bear 23,5 3 99
+Soldier 95 3 99
+Rifle 1000 7 99
