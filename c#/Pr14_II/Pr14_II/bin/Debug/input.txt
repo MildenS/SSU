@@ -1,0 +1,12 @@
+5
+2
+
+Ivanov Ivan Ivanovich 10 20
+
+Kulibin Anton Antonovich 5 5
+
+Klochkov Sergey Mihailovich 10 100
+
+Salygin Andrey Yurevich 5 10
+
+Maseev Nikita Evgenevich 3 10

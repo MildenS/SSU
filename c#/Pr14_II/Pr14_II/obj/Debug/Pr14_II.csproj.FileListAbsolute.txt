@@ -1,0 +1,8 @@
+E:\Универ\C#\Pr14_II\Pr14_II\obj\Debug\Pr14_II.csproj.AssemblyReference.cache
+E:\Универ\C#\Pr14_II\Pr14_II\obj\Debug\Pr14_II.csproj.SuggestedBindingRedirects.cache
+E:\Универ\C#\Pr14_II\Pr14_II\obj\Debug\Pr14_II.csproj.CoreCompileInputs.cache
+E:\Универ\C#\Pr14_II\Pr14_II\bin\Debug\Pr14_II.exe.config
+E:\Универ\C#\Pr14_II\Pr14_II\bin\Debug\Pr14_II.exe
+E:\Универ\C#\Pr14_II\Pr14_II\bin\Debug\Pr14_II.pdb
+E:\Универ\C#\Pr14_II\Pr14_II\obj\Debug\Pr14_II.exe
+E:\Универ\C#\Pr14_II\Pr14_II\obj\Debug\Pr14_II.pdb
