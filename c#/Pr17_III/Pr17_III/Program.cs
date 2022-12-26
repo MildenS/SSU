@@ -23,6 +23,7 @@ namespace Pr17_III
 
             //3
             Console.WriteLine("Rectangle: "+ rectangle);
+            Console.WriteLine("x = " + x);
             Console.WriteLine("Perimetr = "+ rectangle.Perimetr());
             Console.WriteLine("Area = "+ rectangle.Area());
 

@@ -36,7 +36,7 @@ namespace Pr17_III
         //3
         public override string ToString()
         {
-            return a.ToString() + " " + b.ToString();
+            return "a = " + a.ToString() + " , b = " + b.ToString();
         }
         public int Perimetr()
         {
@@ -127,7 +127,7 @@ namespace Pr17_III
         {
             if (obj.a ==0 || obj.b ==0)
             {
-                Console.WriteLine("can't to decremented (zero value in coordinates)");
+                Console.WriteLine("can't to decrement (zero value in coordinates)");
                 return obj;
             }
             return new Rectangle(--obj.a, --obj.b);
